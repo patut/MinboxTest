@@ -1,0 +1,16 @@
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\MindboxTest.Test.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\MindboxTest.Test.pdb
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\MinboxTest.SquareLibrary.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\MinboxTest.SquareLibrary.pdb
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\obj\Debug\MindboxTest.Test.csprojAssemblyReference.cache
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\obj\Debug\MindboxTest.Test.csproj.CoreCompileInputs.cache
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\obj\Debug\MindboxTest.Test.csproj.CopyComplete
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\obj\Debug\MindboxTest.Test.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Test\obj\Debug\MindboxTest.Test.pdb

@@ -1,0 +1,13 @@
+﻿select prod.name + ' - ' + cat.name
+from Product prod
+join CategoryProduct catProd 
+	on prod.productId = catProd.productId
+join Category cat
+	on cat.categoryId = catProd.categoryId
+
+union all
+
+select prod.name
+from Product prod
+left join CategoryProduct catProd 
+where catProd.productId is null

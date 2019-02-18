@@ -1,0 +1,5 @@
+C:\Users\patutinskijfs\source\repos\MindboxTest\MinboxTest.SquareLibrary\bin\Debug\MinboxTest.SquareLibrary.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MinboxTest.SquareLibrary\bin\Debug\MinboxTest.SquareLibrary.pdb
+C:\Users\patutinskijfs\source\repos\MindboxTest\MinboxTest.SquareLibrary\obj\Debug\MinboxTest.SquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\patutinskijfs\source\repos\MindboxTest\MinboxTest.SquareLibrary\obj\Debug\MinboxTest.SquareLibrary.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MinboxTest.SquareLibrary\obj\Debug\MinboxTest.SquareLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Sql\bin\Debug\MindboxTest.Sql.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Sql\bin\Debug\MindboxTest.Sql.pdb
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Sql\obj\Debug\MindboxTest.Sql.csprojAssemblyReference.cache
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Sql\obj\Debug\MindboxTest.Sql.csproj.CoreCompileInputs.cache
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Sql\obj\Debug\MindboxTest.Sql.dll
+C:\Users\patutinskijfs\source\repos\MindboxTest\MindboxTest.Sql\obj\Debug\MindboxTest.Sql.pdb
